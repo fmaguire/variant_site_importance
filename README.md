@@ -11,3 +11,10 @@ The loose idea for this is to mimic a kernel density estimate
 for the gene
 
 - Report any gene that falls into this area.
+
+Analysis
+--------
+
+- Get CARD data `get_data.sh` (version 2.0.3) for this analysis as it stands
+
+- Focus on just ribosomal for now 
